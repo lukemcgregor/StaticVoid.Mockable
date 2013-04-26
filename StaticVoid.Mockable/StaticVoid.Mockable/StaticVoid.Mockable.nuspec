@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.opensource.org/licenses/lgpl-3.0.html</licenseUrl>
+    <projectUrl>https://github.com/lukemcgregor/StaticVoid.Mockable</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>sdsd</description>
+    <copyright>Copyright 2013</copyright>
+  </metadata>
+</package>
